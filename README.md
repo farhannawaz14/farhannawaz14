@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @farhannawaz14
+- 👋 Hi, I’m Farhan Nawaz
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning backend dev
 - 💞️ I’m looking to collaborate on ...
